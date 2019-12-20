@@ -11,8 +11,6 @@ item = nil
     end
   end
       item      
-  end
-
 end
 
 name_hash = {:blake => 500, :ashley => 2, :adam => 1}
