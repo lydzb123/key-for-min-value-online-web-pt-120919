@@ -10,13 +10,13 @@ item = nil
       item = name
     end
   end
-      puts item
-      item
+    puts item
+    item
 end
 
 # name_hash = {:blake => 500, :ashley => 1, :adam => 2}
 # key_for_min_value(name_hash)
-# 
+#
 # 01, 02, 03
 # lowest_val = 500 => 1
 # item = blake => ashley
