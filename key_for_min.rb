@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   name_hash.collect do |name, value|
-puts "#{name}, #{value}"
+    value.max { |a, b|  }
   end
 
 end
