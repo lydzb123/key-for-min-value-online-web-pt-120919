@@ -8,5 +8,5 @@ puts "#{name}, #{value}"
 
 end
 
-
 name_hash = {:blake => 500, :ashley => 2, :adam => 1}
+key_for_min_value(name_hash)
