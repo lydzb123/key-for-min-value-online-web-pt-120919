@@ -10,7 +10,8 @@ item = nil
       item = name
     end
   end
-      return item
+      puts item
+      item
 end
 
 name_hash = {:blake => 500, :ashley => 2, :adam => 1}
